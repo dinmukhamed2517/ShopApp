@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "681265314612",
+    "project_id": "shop-50d7e",
+    "storage_bucket": "shop-50d7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681265314612:android:bf30933a15bb8be4870361",
+        "android_client_info": {
+          "package_name": "kz.sd.shop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQPNXztI7gpzM4Iup8vsoespSMzUo0Hnw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
